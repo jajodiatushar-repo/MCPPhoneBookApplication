@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "phone-book-mcp": {
+      "command": "/Users/work/.sdkman/candidates/java/current/bin/java",
+      "args": [
+        "-jar",
+        "/Users/work/Projects/MCPPhoneBookApplication/target/MCPPhoneBookApplication-1.0-SNAPSHOT.jar"
+      ]
+    }
+  },
+  "preferences": {
+    "coworkScheduledTasksEnabled": false,
+    "sidebarMode": "chat"
+  }
+}
